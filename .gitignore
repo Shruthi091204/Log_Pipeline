@@ -1,0 +1,6 @@
+__pycache__/
+test.log
+start_pipeline.ps1
+agent/build/
+*.pyc
+logs_*.txt
